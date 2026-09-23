@@ -1,6 +1,8 @@
 fastapi
 uvicorn
 python-multipart
-sentence-transformers
 pdfplumber
 scikit-learn
+sentence-transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.6.0+cpu
