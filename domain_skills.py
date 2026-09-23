@@ -1,0 +1,50 @@
+SKILLS_BY_DOMAIN = {
+    "tech_ml": [
+        "python", "java", "c++", "sql", "r",
+        "machine learning", "deep learning", "nlp", "computer vision",
+        "scikit-learn", "tensorflow", "pytorch", "keras",
+        "pandas", "numpy", "matplotlib", "seaborn",
+        "flask", "django", "streamlit", "fastapi",
+        "power bi", "tableau", "excel",
+        "git", "github", "docker", "aws", "azure", "gcp",
+        "statistics", "data analysis", "data visualization",
+        "regression", "classification", "clustering",
+    ],
+    "design": [
+        "figma", "adobe xd", "sketch", "photoshop", "illustrator",
+        "indesign", "after effects", "premiere pro", "canva",
+        "ui design", "ux design", "user research", "wireframing",
+        "prototyping", "typography", "color theory", "branding",
+        "visual design", "interaction design", "design systems",
+        "responsive design", "accessibility", "usability testing",
+        "graphic design", "motion graphics", "illustration",
+        "html", "css", "design thinking", "user personas",
+    ],
+    "finance_commerce": [
+        "excel", "tally", "sap", "quickbooks", "gst",
+        "financial modeling", "financial analysis", "accounting",
+        "auditing", "taxation", "bookkeeping", "budgeting",
+        "financial reporting", "cost accounting", "cash flow",
+        "balance sheet", "profit and loss", "reconciliation",
+        "investment analysis", "risk management", "compliance",
+        "ind as", "gaap", "ifrs", "payroll", "vba",
+        "power bi", "financial statements", "equity research",
+    ],
+    "marketing": [
+        "seo", "sem", "google analytics", "google ads", "meta ads",
+        "content marketing", "content strategy", "social media marketing",
+        "email marketing", "brand strategy", "market research",
+        "campaign management", "copywriting", "influencer marketing",
+        "marketing automation", "hubspot", "mailchimp", "canva",
+        "a/b testing", "conversion optimization", "crm",
+        "digital marketing", "social media management", "analytics",
+        "brand management", "public relations", "growth marketing",
+    ],
+}
+
+DOMAIN_DESCRIPTIONS = {
+    "tech_ml": "software engineering, data science, machine learning, programming, and technology roles",
+    "design": "graphic design, UI UX design, visual design, and creative roles",
+    "finance_commerce": "finance, accounting, commerce, taxation, and business roles",
+    "marketing": "marketing, branding, social media, advertising, and growth roles",
+}
